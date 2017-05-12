@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '364468105:AAFP5tPCnUWNJ7_nHwClhEgM1UsZLfQL4BE',
+	bot_api_key = '265421745:AAEwdkqfKWEuC1rPXuRbeMlbjUCQIWbWZjs',
 	version = '1.0',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
@@ -21,8 +21,8 @@ return {
 		notify_bug = true,
 		log_api_errors = false
 	},
-	channel = '@TeleSurenaCH', --channel username with the '@'
-	help_groups = {
+	channel = '@Vpn989', --channel username with the '@'
+	help_groups = @Vpn989Group
 		['Internatonal (English)'] = false,
 		['Italian'] = false,
 		['Persian'] = 'https://telegram.me/joinchat/CHYUej8VRwlY9dzoKMERog',
